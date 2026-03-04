@@ -71,3 +71,6 @@ Open [http://localhost:3000](http://localhost:3000)
 ## Claude Review Test
 
 This change is only to test the Claude PR review workflow.
+
+# Claude Review test 2
+Testing Claude automated PR review #2
