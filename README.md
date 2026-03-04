@@ -65,3 +65,9 @@ Open [http://localhost:3000](http://localhost:3000)
 - Prisma with SQLite
 - Anthropic Claude AI
 - Vercel AI SDK
+
+
+
+## Claude Review Test
+
+This change is only to test the Claude PR review workflow.
